@@ -114,7 +114,7 @@ header {
 	width: 100%;
 	color: white;
 	background: rgba(28, 36, 65, 0.93);
-	background: url('../img/banner_m_b.jpg');
+	background: url('../img/banner_m_b.jpeg');
     background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center;
@@ -135,6 +135,12 @@ header .header-text {
 	vertical-align: middle;
 	color: white;
 }
+
+
+header .header-text .row {
+	background-color: rgba(0,0,0,0.4);
+}
+
 
 header .typed {
 	display: inline-block;
