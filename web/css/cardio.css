@@ -528,7 +528,7 @@ section {
 	height: 539px;
 	padding-top: 60px;
 	opacity: 0;
-	background: rgba(256, 134, 30, 0.9);
+	background: rgba(47, 43, 39, 0.82);
 	-webkit-transition: opacity 0.45s ease;
 	transition: opacity 0.45s ease;
 }
